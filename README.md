@@ -45,4 +45,4 @@ Phase is built to provide a clean and efficient text-editing experience, with a 
 ---
 
 ## 🩵 **Thanks**
-Thank you for checking out Phase! We hope you enjoy using it as much as we enjoyed building it. If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us. Happy coding! 🚀
+Thank you for checking out Phase! Unfortunately the project is no longer maintained but we plan to make something similar using golang. We hope you enjoy using it as much as we enjoyed building it. If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us. Happy coding! 🚀
